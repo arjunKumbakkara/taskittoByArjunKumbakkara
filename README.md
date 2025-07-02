@@ -1,5 +1,5 @@
 
-# 🧩 TASKITTO – Advanced Task Management App  
+# TASKITTO – Advanced Task Management App  
 **by Arjun Kumbakkara**  
 _“Discipline your day. Dominate your goals.”_
 
