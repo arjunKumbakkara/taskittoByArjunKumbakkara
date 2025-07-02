@@ -15,10 +15,3 @@ export interface DragState {
   draggedTask: Task | null;
   dragOverQuadrant: string | null;
 }
-
-export interface PomodoroState {
-  timeLeft: number;
-  isRunning: boolean;
-  isBreak: boolean;
-  session: number;
-}
