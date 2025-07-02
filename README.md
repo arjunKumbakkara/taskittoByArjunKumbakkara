@@ -3,7 +3,7 @@
 **by Arjun Kumbakkara**  
 _“Discipline your day. Dominate your goals.”_
 
-🌐 **Live :** [[https://deft-strudel-6ad146.netlify.app](https://taskitto.short.gy/do)]
+🌐 **Live :** - GO[https://taskitto.short.gy/do]
 ![TASKITTO](https://github.com/user-attachments/assets/83a5e8c9-f165-426f-b011-5ff37c11bbde)
 
 ---
@@ -125,4 +125,4 @@ Let’s build the next-generation personal productivity assistant — together. 
 ---
 
 ## 📜 License  
-**MIT** © [Arjun Kumbakkara](https://github.com/your-github)
+**MIT** © [Arjun Kumbakkara](https://github.com/arjunKumbakkara)
